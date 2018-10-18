@@ -1,0 +1,7 @@
+1.新建工程spring-boot-quartz
+2.新建一个task 取名ScheduledTasks;
+3.编写quartz配置类（这个类是比较复杂的）
+  1.MethodInvokingJobDetailFactoryBean :jobDetail
+  2.CronTriggerFactoryBean :trigger
+  3.SchedulerFactoryBean: stdSchedulerFactory.getDefaultScheduler();
+4.编写启动类进行测试。
