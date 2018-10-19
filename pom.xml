@@ -12,6 +12,7 @@
         <module>springboottask</module>
         <module>quartzjava</module>
         <module>springbootquartz</module>
+        <module>springbootquartz2</module>
     </modules>
 
     <parent>
