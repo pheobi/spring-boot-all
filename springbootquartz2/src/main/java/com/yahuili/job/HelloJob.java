@@ -6,9 +6,11 @@ import org.quartz.JobExecutionException;
 
 import java.util.Date;
 
+/*
 public class HelloJob implements Job{
     @Override
     public void execute(JobExecutionContext jobExecutionContext) throws JobExecutionException {
         System.out.println("Hello job,date="+new Date());
     }
 }
+*/
