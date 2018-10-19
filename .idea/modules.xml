@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/all.iml" filepath="$PROJECT_DIR$/all.iml" />
       <module fileurl="file://$PROJECT_DIR$/quartzjava/quartzjava.iml" filepath="$PROJECT_DIR$/quartzjava/quartzjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quzrtz-all.iml" filepath="$PROJECT_DIR$/quzrtz-all.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootquartz/springbootquartz.iml" filepath="$PROJECT_DIR$/springbootquartz/springbootquartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootquartz2/springbootquartz2.iml" filepath="$PROJECT_DIR$/springbootquartz2/springbootquartz2.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboottask/springboottask.iml" filepath="$PROJECT_DIR$/springboottask/springboottask.iml" />
